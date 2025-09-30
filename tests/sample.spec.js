@@ -5,3 +5,5 @@ test("Verify Application Title", async ({page}) => {
     expect(page).toHaveTitle("Googless")
 });
 
+test()
+

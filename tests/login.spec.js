@@ -13,5 +13,3 @@ test("Login test", async ({page}) => {
     await expect(page.getByRole('heading', { name: 'Dashboard' })).toBeVisible()
 
 });
-
-import {ch}
